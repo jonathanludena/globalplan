@@ -1,0 +1,11 @@
+commit d0e681e40e1d6b880772626d2e9fafa2d4519009
+Author: jonathanludena <jonathanludenai@gmail.com>
+Date:   Thu Mar 9 18:33:37 2017 -0500
+
+    se agrega Asambleas en el header y footer Asambleas de Adjudicados y se crea archivo commits.txt
+
+commit 9f5fe810d5ee2d6e555dcb04ede7b7709ebcc3cd
+Author: jonathanludena <jonathanludenai@gmail.com>
+Date:   Thu Mar 9 18:00:04 2017 -0500
+
+    inicio de sitio Web GlobalPlan assets e imagenes

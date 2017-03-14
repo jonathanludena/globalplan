@@ -1,0 +1,101 @@
+body {
+	font-family: 'Roboto', sans-serif !important;
+}
+
+.navBar {
+	background: white;
+	height: 95px;
+	line-height: 95px;
+	padding: 0 30px;
+	box-shadow: none;
+}
+
+.logoNav {
+	max-height: 95px;
+}
+
+nav ul li a {
+	color: #233D58;
+}
+
+main h1 {
+	padding: 0;
+	margin: 0;
+}
+
+.parall {
+	height: 500px;
+}
+
+.parall2 {
+	height: 280px;
+}
+
+.informacion {
+	/*height: 600px;*/
+	/*text-align: center;*/
+	padding:90px 0;
+}
+
+.informacion .btn{
+	background-color: #233D58;
+  	font-size: 1em;
+}
+
+.informacion .mv {
+	padding: 70px 0;
+}
+
+.iconos {
+	/*color: white;*/
+	font-size: 2rem;
+}
+
+.queEs {
+	height: 600px;
+	padding-top: 90px;
+}
+
+.conformacion {
+	height: 600px;	
+	padding-top: 90px;	
+	background: #0C6693;
+	color: white;		
+}
+
+.adj {
+	padding: 50px 0;
+	height: 400px;
+}
+
+.modosAdj {
+	padding: 50px 0;					
+}
+
+.modosAdj p {
+	font-size: 1.28rem;
+}
+
+footer.page-footer{
+	background-color: #233D58;
+}
+
+footer.page-footer .footer-copyright {
+	background-color: rgba(53,71,140,0.08);
+}
+
+@media screen and (max-width: 1320px){
+	.sliderG img{
+		width: 100%;
+	}
+	.parall img{
+		width: 100%;
+		height: 100%;
+	}
+	.parall {
+		height: 100%;
+	}
+	.parall2 {
+		height: 100%;
+	}
+}
